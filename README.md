@@ -2,7 +2,7 @@
 - 👀 I’m interested in investigative journalism
 - 🌱 I’m currently learning GitHub all over again
 - 💞️ I’m looking to collaborate on data journalism stuff
-- 📫 How to reach me www.jamespothen.com
+- 📫 How to reach me https://www.jamespothen.com/contact
 
 <!---
 jamespothen/jamespothen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
